@@ -1,4 +1,5 @@
-🌐 Escopo de Endereçamento Lógico (VLANs)
+**🌐 Escopo de Endereçamento Lógico (VLANs)**
+
 VLAN 10: Gerenciamento (Switches, APs e Controladora)
 Faixa de IP: 192.168.10.X
 Máscara: 255.255.255.0 (/24)
